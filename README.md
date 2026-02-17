@@ -31,6 +31,16 @@ You can test the live application here:
 
 ---
 
+## 👩‍💻 My Role in the Hackathon
+
+- Contributed to backend development using FastAPI
+- Integrated Google Gemini LLM for chatbot responses
+- Configured Supabase database connectivity
+- Assisted in API testing and debugging
+- Supported frontend-backend integration
+
+---
+
 ## 🏛️ System Architecture
 
 The system is built on a modern, decoupled architecture ensuring scalability and maintainability.
@@ -192,4 +202,5 @@ The backend API is served from the base URL: `https://chieftrain.onrender.com`
 
 ### 📖 FAQ
 -   `GET /faq/`
-    -   Returns a list of hardcoded frequently asked questions.
+    -   Returns a list of hardcoded frequently asked questions.    
+> Note: This project was developed collaboratively. I have modified, configured, and deployed my own working version for learning and demonstration purposes.
